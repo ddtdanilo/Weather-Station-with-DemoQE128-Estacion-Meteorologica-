@@ -1,0 +1,26 @@
+"$(ProjDirPath)/Project_Settings/Linker_Files/ProcessorExpert.prm"
+-M
+-ViewHidden
+-WmsgFob"%f%e:%l:%k:%d %m\n"
+-WmsgSd1100
+-WmsgSd1912 
+-Add("$(ProjDirPath)/FLASH/Sources/Estacion_Metereologica_c.obj"
+"$(ProjDirPath)/FLASH/Sources/Events_c.obj"
+"$(ProjDirPath)/FLASH/Sources/ProcessorExpert_c.obj"
+"$(ProjDirPath)/FLASH/Project_Settings/Startup_Code/start08_c.obj"
+"$(ProjDirPath)/FLASH/Generated_Code/AD1_c.obj"
+"$(ProjDirPath)/FLASH/Generated_Code/Cpu_c.obj"
+"$(ProjDirPath)/FLASH/Generated_Code/Entrada_Anemometro_1_c.obj"
+"$(ProjDirPath)/FLASH/Generated_Code/Entrada_Anemometro_2_c.obj"
+"$(ProjDirPath)/FLASH/Generated_Code/IO_Map_c.obj"
+"$(ProjDirPath)/FLASH/Generated_Code/PE_Timer_c.obj"
+"$(ProjDirPath)/FLASH/Generated_Code/S1_c.obj"
+"$(ProjDirPath)/FLASH/Generated_Code/S1_LED_c.obj"
+"$(ProjDirPath)/FLASH/Generated_Code/S2_c.obj"
+"$(ProjDirPath)/FLASH/Generated_Code/S2_LED_c.obj"
+"$(ProjDirPath)/FLASH/Generated_Code/Senal_25u_c.obj"
+"$(ProjDirPath)/FLASH/Generated_Code/Senal_25u_2_c.obj"
+"$(ProjDirPath)/FLASH/Generated_Code/Tiempo_c.obj"
+"$(ProjDirPath)/FLASH/Generated_Code/Tiempo_2_c.obj"
+"$(ProjDirPath)/FLASH/Generated_Code/Vectors_c.obj"
+"$(MCUToolsBaseDirEnv)/lib/hc08c/lib/ansifs.lib" )

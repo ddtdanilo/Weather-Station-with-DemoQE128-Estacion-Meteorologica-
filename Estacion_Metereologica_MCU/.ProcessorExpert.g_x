@@ -1,0 +1,55 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="2">
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Generated_Code/S1.c" FileDate="2014-06-02, 15:16:07" FileAge="1401738367223" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/Entrada_Anemometro_1.h" FileDate="2014-06-11, 16:49:12" FileAge="1402521552061" FileType="45637" CompNumb="13" />
+      <File Name="Generated_Code/Tiempo_2.c" FileDate="2014-06-12, 20:38:45" FileAge="1402621725901" FileType="45637" CompNumb="54" />
+      <File Name="Generated_Code/S2_LED.h" FileDate="2014-05-28, 12:08:07" FileAge="1401295087131" FileType="45637" CompNumb="35" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2014-06-09, 22:02:30" FileAge="1402367550616" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/PE_Timer.c" FileDate="2014-06-12, 18:50:21" FileAge="1402615221551" FileType="45637" />
+      <File Name="Generated_Code/S1_LED.h" FileDate="2014-05-28, 12:08:07" FileAge="1401295087120" FileType="45637" CompNumb="34" />
+      <File Name="Generated_Code/S2_LED.c" FileDate="2014-05-28, 12:08:07" FileAge="1401295087148" FileType="45637" CompNumb="35" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2014-06-13, 16:14:48" FileAge="1402692288928" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/Entrada_Anemometro_1.c" FileDate="2014-06-11, 16:49:12" FileAge="1402521552047" FileType="45637" CompNumb="13" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2014-05-28, 12:08:07" FileAge="1401295087199" FileType="45637" />
+      <File Name="Generated_Code/S1_LED.c" FileDate="2014-05-28, 12:08:07" FileAge="1401295087126" FileType="45637" CompNumb="34" />
+      <File Name="Sources/ProcessorExpert.c" FileDate="2014-06-16, 13:46:36" FileAge="1402942596577" FileType="128" />
+      <File Name="Generated_Code/IO_Map.c" FileDate="2014-05-28, 12:08:07" FileAge="1401295087247" FileType="45637" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2014-05-28, 12:08:07" FileAge="1401295087188" FileType="45637" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2014-05-28, 12:08:07" FileAge="1401295087177" FileType="45637" />
+      <File Name="Documentation/ProcessorExpert.txt" FileDate="2014-06-12, 20:38:46" FileAge="1402621726755" FileType="3072" />
+      <File Name="Generated_Code/Tiempo.h" FileDate="2014-06-12, 20:38:45" FileAge="1402621725551" FileType="45637" CompNumb="12" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2014-05-28, 12:08:07" FileAge="1401295087183" FileType="45637" />
+      <File Name="Sources/Events.h" FileDate="2014-06-11, 15:29:55" FileAge="1402516795350" FileType="131328" />
+      <File Name="Generated_Code/Tiempo.c" FileDate="2014-06-12, 20:38:45" FileAge="1402621725559" FileType="45637" CompNumb="12" />
+      <File Name="Sources/Events.c" FileDate="2014-06-16, 13:46:36" FileAge="1402942596608" FileType="131328" />
+      <File Name="Generated_Code/Senal_25u.h" FileDate="2014-05-28, 12:08:06" FileAge="1401295086987" FileType="45637" CompNumb="9" />
+      <File Name="Generated_Code/AD1.h" FileDate="2014-06-13, 16:51:06" FileAge="1402694466298" FileType="45637" CompNumb="36" />
+      <File Name="Generated_Code/Senal_25u.c" FileDate="2014-06-12, 19:36:04" FileAge="1402617964205" FileType="45637" CompNumb="9" />
+      <File Name="Generated_Code/AD1.c" FileDate="2014-06-13, 16:51:06" FileAge="1402694466374" FileType="45637" CompNumb="36" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.prm" FileDate="2014-05-28, 12:08:07" FileAge="1401295087487" FileType="8" CompNumb="4" />
+      <File Name="Documentation/ProcessorExpert_Settings.xml" FileDate="2014-06-13, 16:51:06" FileAge="1402694466494" FileType="3072" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2014-06-11, 15:29:55" FileAge="1402516795325" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/S2.h" FileDate="2014-06-02, 15:20:08" FileAge="1401738608437" FileType="45637" CompNumb="30" />
+      <File Name="Generated_Code/S2.c" FileDate="2014-06-02, 15:20:08" FileAge="1401738608512" FileType="45637" CompNumb="30" />
+      <File Name="Generated_Code/Entrada_Anemometro_2.h" FileDate="2014-06-13, 16:14:48" FileAge="1402692288741" FileType="45637" CompNumb="50" />
+      <File Name="Generated_Code/Senal_25u_2.h" FileDate="2014-06-12, 19:36:04" FileAge="1402617964118" FileType="45637" CompNumb="46" />
+      <File Name="Documentation/ProcessorExpert_SIGNALS.txt" FileDate="2014-06-16, 13:46:44" FileAge="1402942604025" FileType="3072" />
+      <File Name="Generated_Code/Entrada_Anemometro_2.c" FileDate="2014-06-13, 16:14:48" FileAge="1402692288660" FileType="45637" CompNumb="50" />
+      <File Name="Generated_Code/Senal_25u_2.c" FileDate="2014-06-12, 19:36:04" FileAge="1402617964234" FileType="45637" CompNumb="46" />
+      <File Name="Generated_Code/S1.h" FileDate="2014-06-02, 15:16:07" FileAge="1401738367179" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/Tiempo_2.h" FileDate="2014-06-12, 20:38:45" FileAge="1402621725893" FileType="45637" CompNumb="54" />
+      <File Name="Generated_Code/PE_Timer.h" FileDate="2014-06-12, 18:50:21" FileAge="1402615221531" FileType="45637" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>121</CodeGenReference>
+</CodeGenerationInfo>
